@@ -3,7 +3,7 @@ Nome: 💳 Cadastro de Cartão para Cobrança Automática
 Sobre: Funcionalidade de registro de cartão de crédito com integração segura de pagamento
 Título: "[US01] Cadastro Seguro de Cartão de Crédito para Clientes Mensais"
 Tags: user story, pagamento, sprint 1
-Membros: thiago-henrique, thiago-santos
+Integrantes: nicolas-andrade, samuel-domingos, thiago-henrique, thiago-santos
 Ponto do projeto: Sprint 1
 ---
 
